@@ -5,10 +5,10 @@ This repository contains the templates for the input parameter files needed for 
 
 ## Download
 
-# Non-coders
+### Non-coders
 If you don't have a GIT client installed, or if you don't even know what GIT is, you can download all the template files at once using this [link](https://github.com/VEZY/DynACof_inputs/archive/master.zip).
 
-# Experienced users
+### Experienced users
 To clone the repository, use this command:
 ```
 git clone https://github.com/VEZY/DynACof_inputs.git
